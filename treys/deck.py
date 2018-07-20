@@ -1,5 +1,5 @@
 from random import shuffle as rshuffle
-from card import Card
+from .card import Card
 
 
 class Deck:
